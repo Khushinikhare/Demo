@@ -1,3 +1,3 @@
-function f1(){
-    console.log("Hii");
+function f2(){
+    console.log("Byee");
 }
